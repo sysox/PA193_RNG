@@ -1,4 +1,5 @@
 # PA193_RNG
+Install to your machine (prefered option) or you can use [binder](https://mybinder.org/v2/gh/sysox/PA193_RNG/HEAD)
 
 # Setup instructions
 ## Windows 
